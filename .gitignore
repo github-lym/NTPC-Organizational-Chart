@@ -1,0 +1,5 @@
+OC/bin/*
+OC/obj/*
+Backup/
+.vscode/*
+.vs/*

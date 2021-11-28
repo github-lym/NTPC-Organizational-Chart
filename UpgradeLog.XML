@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="OC">
+</Property><Property Name="方案檔" Value="C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\OC.sln">
+</Property><Property Name="使用者選項檔" Value="C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\OC.suo">
+</Property><Property Name="Date" Value="2012年7月6日">
+</Property><Property Name="Time" Value="下午 19:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="OC.sln" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC.sln">
+</Event><Event ErrorLevel="0" Project="" Source="OC.suo" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC.suo">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\OC.csproj" Description="專案檔已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\OC.csproj">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\Form1.cs" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\Form1.cs">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\Form1.Designer.cs" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\Program.cs" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\Program.cs">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\Properties\Resources.Designer.cs" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\Properties\Settings.Designer.cs" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\Settings1.Designer.cs" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\Settings1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\app.config" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\app.config">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\Properties\Settings.settings" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\Settings1.settings" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\Settings1.settings">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\Document Organization Chart-01.ico" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\Document Organization Chart-01.ico">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\document_flow_chart_01.ico" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\document_flow_chart_01.ico">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\Form1.resx" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\Form1.resx">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\Properties\Resources.resx" Description="檔案已成功備份為 C:\Users\VM_WIN7\Documents\Visual Studio 2008\Projects\OC\Backup\OC\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="OC" Source="OC\OC.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\OC.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="OC" Source="OC\OC.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="OC.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="OC.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OC" Source="OC\OC.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>
